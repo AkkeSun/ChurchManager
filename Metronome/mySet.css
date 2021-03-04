@@ -1,0 +1,30 @@
+		.mybutton{width:49%;}
+		.mycol	 { background-color:#4EC4DE} 
+		.headFont{ 
+			font-size : 140px;
+			font-weight : 700;
+		}
+		.mytempo{
+			font-size : 80px;
+			opacity: .7;
+			color:black;
+			font-weight:500
+			
+		}		
+		.mybutton{
+			font-size:50px;
+			opacity: .7;
+			color:black;
+			font-weight:700;
+		}
+		.myfooter{
+			font-size:40px;
+			font-family:S-CoreDream-3Light;
+		}
+		
+	@font-face {
+     font-family: 'S-CoreDream-3Light';
+     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+	}

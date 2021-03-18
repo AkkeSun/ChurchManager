@@ -65,7 +65,7 @@ MemberDto mem = (MemberDto)session.getAttribute("login");
 
 <h2>답글</h2>
 
-<form action="member?param=bbsanswerAF" method="post">
+<form action="bbsanswer.jsp" method="post">
 <input type="hidden" name="seq" value="<%=bbs.getSeq() %>">
 
 <table border="1">

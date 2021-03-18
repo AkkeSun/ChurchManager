@@ -105,8 +105,6 @@ $("#chk_save_id").click(function() {
 		$.removeCookie("user_id", { path:'./' });
 	}
 	
-	
-	
 }); 
 
 </script>
